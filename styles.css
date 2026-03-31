@@ -83,10 +83,6 @@ main > .container{
     margin-bottom: 103px;
 }
 
-.top-first-cart{
-    
-}
-
 .bot-first-cart{
     margin-right: 18px;
 }
@@ -167,6 +163,8 @@ main > .container{
 .par-active{
     display: flex;
 }
+
+
 
 
 
